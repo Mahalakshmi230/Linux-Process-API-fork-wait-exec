@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/351faa01-c937-4fc8-ad5a-4822d43fe26a)# Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
@@ -115,17 +114,14 @@ int main() {
 ##OUTPUT
 
 
-
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-30%2014-33-06.png![image](https://github.com/user-attachments/assets/4223c5d2-e621-478e-8958-7bb2ce8e50ab)
-
-
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-30%2014-31-59.png![image](https://github.com/user-attachments/assets/ef1db4b3-4eea-4268-a3ef-c3d9f6efcc71)
+![image](https://github.com/user-attachments/assets/4223c5d2-e621-478e-8958-7bb2ce8e50ab)
 
 
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-30%2014-31-03.png![image](https://github.com/user-attachments/assets/4051f871-4dcb-486d-8d34-55e42dac23ff)
+![image](https://github.com/user-attachments/assets/ef1db4b3-4eea-4268-a3ef-c3d9f6efcc71)
 
-RESULT:
-The programs are executed successfully.
+
+![image](https://github.com/user-attachments/assets/4051f871-4dcb-486d-8d34-55e42dac23ff)
+
 
 # RESULT:
 The programs are executed successfully.
